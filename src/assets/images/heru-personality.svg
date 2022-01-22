@@ -1,0 +1,40 @@
+<svg width="1050px" height="1050px" xmlns="http://www.w3.org/2000/svg" id="etunxMg6FCS1" viewBox="0 0 400 400">
+  <style>
+    @keyframes etunxMg6FCS3_to__to{0%,to{transform:translate(159.135575px,160.173106px)}50%{transform:translate(177.500003px,195.030594px)}}@keyframes etunxMg6FCS3_tr__tr{0%{transform:rotate(0deg)}to{transform:rotate(360deg)}}@keyframes etunxMg6FCS4_to__to{0%,to{transform:translate(201.46243px,170.746891px)}25%{transform:translate(178.106341px,154.217966px)}50%{transform:translate(154.862562px,187.720086px)}75%{transform:translate(199.306484px,195.180965px)}}@keyframes etunxMg6FCS4_tr__tr{0%{transform:rotate(0deg)}to{transform:rotate(-359.99deg)}}@keyframes etunxMg6FCS5_to__to{0%,to{transform:translate(170.222742px,175.000623px)}50%{transform:translate(194.656806px,188.562134px)}}@keyframes etunxMg6FCS5_tr__tr{0%{transform:rotate(0deg)}to{transform:rotate(360deg)}}@keyframes etunxMg6FCS7_ts__ts{0%,14.285714%,28.571429%,35.714286%,57.142857%,71.428571%,78.571429%,92.857143%,to{transform:translate(177.500002px,175.072549px) scale(1,1)}7.142857%{transform:translate(177.500002px,175.072549px) scale(.62433,.62433)}21.428571%{transform:translate(177.500002px,175.072549px) scale(.502361,.502361)}42.857143%{transform:translate(177.500002px,175.072549px) scale(.666411,.666411)}64.285714%{transform:translate(177.500002px,175.072549px) scale(.621015,.621015)}85.714286%{transform:translate(177.500002px,175.072549px) scale(.724367,.724367)}}
+  </style>
+  <defs>
+    <linearGradient id="etunxMg6FCS3-fill" x1=".173" x2=".94" y1=".5" y2=".5" gradientUnits="objectBoundingBox" spreadMethod="pad">
+      <stop id="etunxMg6FCS3-fill-0" offset="7%" stop-color="#7182f6"/>
+      <stop id="etunxMg6FCS3-fill-1" offset="100%" stop-color="#de709f"/>
+    </linearGradient>
+    <linearGradient id="etunxMg6FCS4-fill" x1="1" x2="-.114" y1=".122" y2=".631" gradientUnits="objectBoundingBox" spreadMethod="pad">
+      <stop id="etunxMg6FCS3-fill-0" offset="7%" stop-color="#7182f6"/>
+      <stop id="etunxMg6FCS3-fill-1" offset="100%" stop-color="#de709f"/>
+    </linearGradient>
+    <linearGradient id="etunxMg6FCS5-fill" x1=".633" x2=".337" y1="0" y2=".923" gradientUnits="objectBoundingBox" spreadMethod="pad">
+      <stop id="etunxMg6FCS5-fill-0" offset="0%" stop-color="#00E0FF"/>
+      <stop id="etunxMg6FCS5-fill-1" offset="100%" stop-color="#5E83FF"/>
+    </linearGradient>
+    <radialGradient id="etunxMg6FCS7-fill" cx="0" cy="0" r=".5" gradientTransform="translate(.5 .5)" gradientUnits="objectBoundingBox" spreadMethod="pad">
+      <stop id="etunxMg6FCS3-fill-0" offset="7%" stop-color="#7182f6"/>
+      <stop id="etunxMg6FCS3-fill-1" offset="100%" stop-color="#de709f"/>
+    </radialGradient>
+  </defs>
+  <g id="etunxMg6FCS2" transform="translate(22.5 25)" opacity=".2" >
+    <g style="animation:etunxMg6FCS3_to__to 14000ms linear infinite normal forwards">
+      <g style="animation:etunxMg6FCS3_tr__tr 14000ms linear infinite normal forwards" transform="translate(159.136 160.173)">
+        <path id="etunxMg6FCS3" fill="url(#etunxMg6FCS3-fill)" fill-rule="evenodd" stroke="none" stroke-miterlimit="1" stroke-width="1" d="M98.79 20.144c90.839-1.582 160.968 41.689 191.023 101.389 47.363 94.08-35.154 180.267-105.797 201.307-79.643 23.722-150.497-12.952-171.92-67.592C1.49 228.195-1.027 196.264.341 159.738 1.49 129.09 1.49 94.256 12.096 71.23c15.65-33.972 54.113-50.518 86.695-51.086Z" opacity=".65" transform="translate(-151.83 -175.073)"/>
+      </g>
+    </g>
+    <g style="animation:etunxMg6FCS4_to__to 14000ms linear infinite normal forwards">
+      <g style="animation:etunxMg6FCS4_tr__tr 14000ms linear infinite normal forwards" transform="translate(201.462 170.747)">
+        <path id="etunxMg6FCS4" fill="url(#etunxMg6FCS4-fill)" fill-rule="evenodd" stroke="none" stroke-miterlimit="1" stroke-width="1" d="M190.037 39.204c137.32-.441 237.783 205.066 96.98 260.085C173.17 343.775-5.601 270.279 51.913 134.716c18.426-43.433 53.65-75.515 101.389-89.633 19.776-5.849 27.69-5.849 36.735-5.879Z" opacity=".65" transform="translate(-191.802 -168.394)"/>
+      </g>
+    </g>
+    <g style="animation:etunxMg6FCS5_to__to 14000ms linear infinite normal forwards">
+      <g style="animation:etunxMg6FCS5_tr__tr 14000ms linear infinite normal forwards" transform="translate(170.223 175)">
+        <path id="etunxMg6FCS5" fill="url(#etunxMg6FCS5-fill)" fill-rule="evenodd" stroke="none" stroke-miterlimit="1" stroke-width="1" d="M177.942.034c77.28-1.572 125.746 51.317 136.654 116.625 5.33 31.924-6.245 66.14-11.756 91.528-15.143 69.774-21.182 128.35-94.041 140.245C105.252 365.338-1.72 242.267 31.002 135.85 47.697 81.552 93.832 31.606 139.737 10.368 156.968 2.396 166.431.268 177.942.034Z" opacity=".65" transform="translate(-170.482 -175)"/>
+      </g>
+    </g>
+  </g>
+</svg>
