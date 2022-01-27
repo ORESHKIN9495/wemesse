@@ -17,10 +17,10 @@
 }
 
 :root {
+  --btn-width: 180px;
   --font: 400 16px / 1.64 Helvetica, sans-serif;
   --gap: 20px;
   --text-color: rgba(255, 255, 255, 0.358);
-  --btn-width: 180px;
 }
 
 // project reset css
