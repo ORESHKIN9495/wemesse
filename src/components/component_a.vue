@@ -1,21 +1,33 @@
 <template>
   <div class="a">
-    <img src="../assets/images/wemesse-icon-l.svg" alt="WeMesse" />
+    <img src="@/assets/images/wemesse-icon-l.svg" alt="WeMesse" />
+
     <p>WeMesse</p>
   </div>
 </template>
 
 <style lang="scss" scoped>
 .a {
-  display: flex;
   align-items: center;
+  display: flex;
   font-size: 15px;
-  margin: 40px 0 0 0;
-  padding: 0 calc(var(--gap) * 2);
+  padding: var(--gap);
 
   img {
     margin: 0 10px 0 0;
-    width: 50px;
+    width: 40px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .a {
+    img {
+      width: 25px;
+    }
+
+    p {
+      font-size: 10px;
+    }
   }
 }
 </style>

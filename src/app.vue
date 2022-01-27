@@ -5,22 +5,22 @@
     <component_c />
     <component_d />
   </div>
-
-  <router-view />
 </template>
 
 <style lang="scss">
 .container {
-  background: no-repeat center url("./assets/images/heru-personality.svg");
-  display: flex;
-  flex-direction: column;
-  font-family: Arial, Helvetica, sans-serif;
-
-  max-width: 1280px;
+  background: no-repeat center url("@/assets/images/heru-personality.svg");
+  font: var(--font);
   margin: 0 auto;
+  max-width: 1280px;
+  height: 100vh;
 }
+
 :root {
+  --font: 400 16px / 1.64 Helvetica, sans-serif;
   --gap: 20px;
+  --text-color: rgba(255, 255, 255, 0.358);
+  --btn-width: 180px;
 }
 
 // project reset css
@@ -54,7 +54,7 @@
   }
 
   p {
-    color: rgba(255, 255, 255, 0.418);
+    color: var(--text-color);
   }
 
   h1,
@@ -107,9 +107,7 @@
     background: none;
     border: none;
     box-shadow: none;
-
     font: inherit;
-
     margin: 0;
     outline: none;
     padding: 0;
@@ -118,7 +116,7 @@
   button {
     background: #fff;
     border-radius: 25px;
-    width: 200px;
+    width: var(--btn-width);
     padding: 10px;
     cursor: pointer;
   }

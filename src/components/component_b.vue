@@ -1,8 +1,8 @@
 <template>
   <div class="b">
     <picture class="b__img">
-      <img src="../assets/images/wemesse-title.svg" alt="title" />
-      <img src="../assets/images/wemesse-commas.svg" alt="commas"
+      <img src="@/assets/images/wemesse-title.svg" alt="title" />
+      <img src="@/assets/images/wemesse-commas.svg" alt="commas"
     /></picture>
 
     <p>
@@ -14,17 +14,27 @@
 
 <style lang="scss" scoped>
 .b {
-  text-align: center;
-  margin: var(--gap) 0 0 0;
-  padding: calc(var(--gap) * 4);
+  padding: var(--gap) calc(var(--gap) * 2);
 
   &__img {
     display: flex;
+
+    img:last-child {
+      width: 40px;
+    }
   }
 
   p {
-    line-height: 40px;
-    color: rgba(255, 255, 255, 0.418);
+    line-height: 30px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 678px) {
+  .b__img {
+    img:last-child {
+      width: 15px;
+    }
   }
 }
 </style>
