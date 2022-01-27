@@ -11,9 +11,9 @@
 .container {
   background: no-repeat center url("@/assets/images/heru-personality.svg");
   font: var(--font);
+  height: 100vh;
   margin: 0 auto;
   max-width: 1280px;
-  height: 100vh;
 }
 
 :root {

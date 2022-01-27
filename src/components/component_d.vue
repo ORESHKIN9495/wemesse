@@ -26,16 +26,16 @@
     margin: 0 0 0 var(--gap);
 
     img {
-      width: 20px;
       margin: -50px 0 0 0;
+      width: 20px;
     }
   }
 }
 
 @media only screen and (max-width: 678px) {
   .d {
-    flex-direction: column;
     align-items: center;
+    flex-direction: column;
   }
 }
 </style>
